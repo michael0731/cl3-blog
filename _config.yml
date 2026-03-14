@@ -3,7 +3,7 @@ description: "CL3 Platform 開發週記與產品演進紀錄"
 author: "Michael"
 lang: "zh-TW"
 timezone: "Asia/Taipei"
-url: "https://michael0731.github.io/cl3-blog"
+url: "https://michael0731.github.io"
 baseurl: "/cl3-blog"
 
 theme: minima
