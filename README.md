@@ -4,7 +4,7 @@ This starter is for a GitHub Pages + Jekyll blog.
 
 ## Quick start
 1. Create a new GitHub repository.
-   - Personal site: `YOUR_USERNAME.github.io`
+   - Personal site: `michael0731.github.io`
    - Project site: any repo name, e.g. `cl3-blog`
 2. Upload all files from this folder to the repo root.
 3. In GitHub:
@@ -25,9 +25,9 @@ This starter is for a GitHub Pages + Jekyll blog.
 - `_posts/2026-03-14-cl3-weekly-devlog.md`
 
 ## URL rules
-- If repo name is `YOUR_USERNAME.github.io`
-  - `url: https://YOUR_USERNAME.github.io`
+- If repo name is `michael0731.github.io`
+  - `url: https://michael0731.github.io`
   - `baseurl: ""`
 - If repo name is `cl3-blog`
-  - `url: https://YOUR_USERNAME.github.io`
+  - `url: https://michael0731.github.io`
   - `baseurl: "/cl3-blog"`
