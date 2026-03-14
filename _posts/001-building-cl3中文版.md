@@ -1,7 +1,10 @@
 ---
-created: 2026-03-08T17:54:07+08:00
-modified: 2026-03-08T17:55:27+08:00
+layout: post
+title: "CL3 是什麼"
+date: 2026-03-08T17:54:07+08:00
+categories: [weekly, devlog]
 ---
+
 # Building CL3
 
 ## 為什麼我決定建立自己的 Investment Decision Engine
