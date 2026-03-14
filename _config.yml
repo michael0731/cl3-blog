@@ -3,8 +3,8 @@ description: "CL3 Platform 開發週記與產品演進紀錄"
 author: "Michael"
 lang: "zh-TW"
 timezone: "Asia/Taipei"
-url: "https://YOUR_USERNAME.github.io"
-baseurl: ""
+url: "https://michael0731.github.io"
+baseurl: "/cl3-blog"
 
 theme: minima
 markdown: kramdown
@@ -16,7 +16,7 @@ plugins:
 
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/YOUR_USERNAME" }
+    - { platform: github,  user_url: "https://github.com/michael0731" }
 
 header_pages:
   - about.md

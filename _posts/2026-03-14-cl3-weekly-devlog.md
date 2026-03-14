@@ -14,3 +14,5 @@ categories: [weekly, devlog]
 本週另一個重要收穫，是更清楚確認未來資產輸入流程必須依 driver 特性治理：ALLIANZ 將朝 catalog picker 方向發展，YFINANCE 則朝 ticker search + validate picker 收斂，讓系統從自由輸入走向受控輸入。
 
 這一週，CL3 又更接近一個真正可持續演進的平台。
+
+
